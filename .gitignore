@@ -1,0 +1,15 @@
+.env
+*.session
+*.session-journal
+j4j_bot.log
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+Thumbs.db
